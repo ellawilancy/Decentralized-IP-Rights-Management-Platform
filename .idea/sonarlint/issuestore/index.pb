@@ -7,3 +7,5 @@ N
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 M
 tests/ip-registration.test.ts,d/1/d1af5956f90d37e8eb10704a35788d07175ea187
+S
+#contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
